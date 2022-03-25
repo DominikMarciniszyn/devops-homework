@@ -1,4 +1,4 @@
-# The Mobility House DevOps Homework
+# DevOps Homework
 
 Naturally, this code must be written by you alone, but you may
 use the internet to solve various aspects as required, as would
@@ -8,12 +8,8 @@ be done in day-to-day work. We appreciate you taking the time!
 
 1. Fork this repository
 2. Complete the tasks in your forked repository
-3. If you have made a private repository, then give access to the following people:
-    * zelaskov
-    * JakubBajorekCT
-    * mateuszterczynski
-    * ryant71
-4. There is no need to create a PR. Just let our HR team know what your repository is so that they can pass it on to the DevOps team
+3. If you have made a private repository, then give access
+4. There is no need to create a PR. Just send your repository
 
 So, here are the tasks:
 
